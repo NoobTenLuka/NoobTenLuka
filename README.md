@@ -30,7 +30,9 @@
 
 ---
 
-<img align="left" alt="NoobTenLuka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NoobTenLuka&show_icons=true&hide_border=true">
+[![NoobTenLuka's github stats](https://github-readme-stats.vercel.app/api?username=NoobTenLuka&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobTenLuka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/NoobTenLuka
 [youtube]: https://www.youtube.com/channel/UCRlyJuD558jwfmYkIhCkrxg
