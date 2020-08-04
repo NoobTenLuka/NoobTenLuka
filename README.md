@@ -1,11 +1,12 @@
 ### Hi there, I'm Luka - aka NoobTenLuka 👋
 
-## I'm a student and self-thought developer.
+## I'm a student and self-taught developer.
 
 - 💻 I'm currently in school to become an IT assistant
-- 🌐 I thaught myself how to code via the internet
+- 🌐 I taught myself how to code via the internet
 - ⭐ My favourite language is Typescript because of it's simplicity but high extendability
 - 📖 I'm currently reading The Unicorn Project to learn more about development apart from coding
+- 🌟 My hobby is playing video games
 
 ### Connect with me:
 
